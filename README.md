@@ -1,3 +1,6 @@
+![tests](https://github.com/majdmajd-abo/ticket-ai-backend/actions/workflows/tests.yml/badge.svg?branch=main)
+
+
 # Ticket AI Triage API (FastAPI)
 
 Backend service that receives a support ticket and returns a structured AI analysis:
