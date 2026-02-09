@@ -23,3 +23,5 @@ source .venv/bin/activate
 pip install -U pip
 pip install fastapi "uvicorn[standard]" python-dotenv pydantic-settings openai slowapi pytest httpx
 
+Add tests badge
+
